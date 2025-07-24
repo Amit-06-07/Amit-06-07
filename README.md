@@ -13,7 +13,7 @@
 - 💻 I love building scalable full-stack applications & working on ML models  
 - 🧠 Consistently solving DSA problems to enhance logic & thinking  
 - 🔍 Focused on MERN stack, Python, and AI/ML model development  
-- 📬 Reach me at: **amittomar7@gmail.com**
+- 📬 Reach me at: **amitsinghtomar0001@gmail.com**
 
 ---
 
