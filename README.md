@@ -91,7 +91,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amittomar7&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amittomar7&theme=radical" width="450" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=amittomar7&theme=radical" width="450" />
 </p>
 
 ---
@@ -102,7 +102,7 @@
   <a href="https://www.linkedin.com/in/amit-singh-tomar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:amittomar7@gmail.com">
+  <a href="mailto:amitsinghtomar0001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
